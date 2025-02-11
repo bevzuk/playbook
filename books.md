@@ -1,5 +1,3 @@
-[Курс по инженерным практикам](https://neogenda.com/trening-inzhenernye-it-praktiki-dlya-neinzhenerov)
-
 # Полезные книги по направлениям
 Сделали подборку книг, которые помогут разработчикам, менеджерам, аналитикам и дизайнерам развиваться в профессии. Больше про то, на что мы опирались при выборе книг, можно почитать [в статье](https://habr.com/ru/companies/avito/articles/747102/) в нашем блоге на Хабре.
 
@@ -676,3 +674,7 @@ K&R: классическая книга от авторов языка.
 [Купить на Ozon →](https://www.ozon.ru/product/complete-guide-to-test-automation-polnoe-rukovodstvo-po-avtomatizatsii-testirovaniya-na-angl-yaz-233323138/)
 
 [Купить на Amazon →](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining/dp/1484238311)
+
+
+# Курсы
+[Курс по инженерным практикам](https://neogenda.com/trening-inzhenernye-it-praktiki-dlya-neinzhenerov)
