@@ -676,3 +676,4 @@ K&R: классическая книга от авторов языка.
 [Купить на Amazon →](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining/dp/1484238311)
 
 ##Таймменеджмент
+пример книги
