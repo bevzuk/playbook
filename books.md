@@ -102,7 +102,7 @@
 
 #### The Innovator's Dilemma | Clayton Christensen
 
-[Купить на Amazon →](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244)
+
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/kleyton-kristensen/dilemma-innovatora-kak-iz-za-novyh-tehnologiy-pogibaut-11292461/)
 
@@ -172,11 +172,11 @@
 
 #### The Wall Street Journal: Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures | Dona M. Wong
 
-[Купить на Amazon →](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281)
+
 
 #### Visualize This: The FlowingData Guide to Design, Visualization, and Statistics | Nathan Yau
 
-[Купить на Amazon →](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
+
 
 #### Rework: Бизнес без предрассудков | Джейсон Фрайд, Дэвид Хейнмейер Ханссон
 
