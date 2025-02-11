@@ -8,66 +8,44 @@
 
 #### Lean Startup |  Eric Ries
 
-[Купить на Amazon →](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-
 [Купить на Ozon (на русском языке)→](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-8-e-izd-479034894/) 
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/erik-ris/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-ide-6884055/)
 
 #### Hooked: How to Build Habit-Forming Products | Nir Eyal
 
-[Купить на Amazon →](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
-
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/nir-eyal/hooked-na-kruchke-kak-sozdavat-produkty-formiruuschie-privychki-7906348/)
 
 #### Inspired: How To Create Products Customers Love | Marty Cagan
-
-[Купить на Amazon →](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/marty-cagan/vdohnovlennye-51383835/)
 
 #### Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | Jake Knapp
 
-[Купить на Amazon →](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
-
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/dzheyk-knapp/sprint-kak-razrabotat-i-protestirovat-novyy-produkt-vsego-za-24159860/)
 
 #### Lean Analytics: Use Data to Build a Better Startup Faster | Alistair Croll
-
-[Купить на Amazon →](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675)
 
 [Официальный сайт →](https://leananalyticsbook.com/)
 
 #### Delivering Happiness. A Path to Profits, Passion, and Purpose | Tony Hsieh
 
-[Купить на Amazon →](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-
 [Купить на Лабиринте (на русском языке) →](https://www.labirint.ru/books/357977/)
 
 #### Don't Make Me Think | Steve Krug
-
-[Купить на Amazon →](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 [Купить на Лабиринте (на русском языке) →](https://www.labirint.ru/books/569883/)
 
 ## Общий менеджмент
 #### High Output Management | Andrew Grove
 
-[Купить на Amazon →](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-
 #### The Hard Thing About Hard Things | Ben Horowitz
 
-[Купить на Amazon →](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
-
 #### The Effective Executive | Peter Druker
-
-[Купить на Amazon →](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/piter-druker/effektivnyy-rukovoditel-138342/)
 
 #### Overcoming 5 Dysfunctions of a Team | Patrick Lencioni
-
-[Купить на Amazon →](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-Facilitators/dp/0787976377?qid=&sr=)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/patrik-lensioni/pyat-porokov-komandy-620095/)
 
@@ -79,31 +57,21 @@
 
 #### The Mythical Man-Month | Frederick Brooks
 
-[Купить на Amazon →](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
-
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/mificheskiy-cheloveko-mesyats-ili-kak-sozdayutsya-programmnye-sistemy-211424648/)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/frederik-bruks/mificheskiy-cheloveko-mesyac-ili-kak-sozdautsya-programmnye-58154399/)
 
 #### PMBOK guide 5th edition | PMI
 
-[Купить на Amazon →](https://www.amazon.com/Guide-Project-Management-Knowledge-PMBOK%C2%AE/dp/1935589679)
-
 #### Inside the Tornado | Geoffrey Moore
-
-[Купить на Amazon →](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819)
 
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/vnutri-tornado-strategii-razvitiya-uspeha-i-vyzhivaniya-na-giperrastushchih-rynkah-mur-dzheffri-a-245550431/)
 
 #### Crossing the Chasm | Geoffrey Moore
 
-[Купить на Amazon →](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
-
 ## Инновации
 
 #### Competing Against Luck | Clayton Christensen
-
-[Купить на Amazon →](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/zakon-uspeshnyh-innovatsiy-zachem-klient-nanimaet-vash-produkt-i-kak-znanie-ob-etom-pomogaet-novym-251224579/)
 
