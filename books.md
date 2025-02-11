@@ -74,7 +74,6 @@
 
 #### The Mythical Man-Month | Frederick Brooks
 
-[Купить на Amazon →](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/mificheskiy-cheloveko-mesyats-ili-kak-sozdayutsya-programmnye-sistemy-211424648/)
 
@@ -82,11 +81,8 @@
 
 #### PMBOK guide 5th edition | PMI
 
-[Купить на Amazon →](https://www.amazon.com/Guide-Project-Management-Knowledge-PMBOK%C2%AE/dp/1935589679)
-
 #### Inside the Tornado | Geoffrey Moore
 
-[Купить на Amazon →](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819)
 
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/vnutri-tornado-strategii-razvitiya-uspeha-i-vyzhivaniya-na-giperrastushchih-rynkah-mur-dzheffri-a-245550431/)
 
@@ -98,7 +94,7 @@
 
 #### Competing Against Luck | Clayton Christensen
 
-[Купить на Amazon →](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
+
 
 [Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/zakon-uspeshnyh-innovatsiy-zachem-klient-nanimaet-vash-produkt-i-kak-znanie-ob-etom-pomogaet-novym-251224579/)
 
