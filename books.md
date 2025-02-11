@@ -48,11 +48,11 @@
 ## Общий менеджмент
 #### High Output Management | Andrew Grove
 
-[Купить на Amazon →](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+
 
 #### The Hard Thing About Hard Things | Ben Horowitz
 
-[Купить на Amazon →](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
 
 #### The Effective Executive | Peter Druker
 
