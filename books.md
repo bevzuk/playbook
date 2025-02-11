@@ -77,6 +77,10 @@
 
 ## Управление проектами
 
+#### Настольная книга Project Менеджера
+
+[Купить на Ozon](https://www.ozon.ru/product/nastolnaya-kniga-project-menedzhera-chto-nuzhno-znat-chtoby-upravlyat-it-digital-i-drugimi-proektami-678266528/?__rr=1&abt_att=1&origin_referer=yandex.ru)
+
 #### The Mythical Man-Month | Frederick Brooks
 
 [Купить на Amazon →](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
