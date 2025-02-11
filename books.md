@@ -2,7 +2,11 @@
 Сделали подборку книг, которые помогут разработчикам, менеджерам, аналитикам и дизайнерам развиваться в профессии. Больше про то, на что мы опирались при выборе книг, можно почитать [в статье](https://habr.com/ru/companies/avito/articles/747102/) в нашем блоге на Хабре.
 
 ## Управление продуктом
-#### Lean Startup | Eric Ries
+#### Agile Estimating and Planning |  Mike Cohn
+
+[Купить на АльпинаКниги (бумажная, на русском языке) →](https://alpinabook.ru/catalog/book-agile/?srsltid=AfmBOopLhJ6q_5Vo0uQi2rcjxqcjKLk5z7HRn3DeiYkQnAu0TXVJIffq)
+
+#### Lean Startup |  Eric Ries
 
 [Купить на Amazon →](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
