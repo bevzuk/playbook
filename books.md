@@ -679,6 +679,7 @@ K&R: классическая книга от авторов языка.
 
 [Купить на Amazon →](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining/dp/1484238311)
 
+[Купить на Amazon →](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining/dp/1484238311)
 
 # Курсы
 [Курс по инженерным практикам](https://neogenda.com/trening-inzhenernye-it-praktiki-dlya-neinzhenerov)
