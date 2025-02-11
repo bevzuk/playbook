@@ -4,7 +4,7 @@
 ## Управление продуктом
 #### Lean Startup | Eric Ries
 
-[Купить на Amazon →](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+
 
 [Купить на Ozon (на русском языке)→](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-8-e-izd-479034894/) 
 
@@ -12,19 +12,18 @@
 
 #### Hooked: How to Build Habit-Forming Products | Nir Eyal
 
-[Купить на Amazon →](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/nir-eyal/hooked-na-kruchke-kak-sozdavat-produkty-formiruuschie-privychki-7906348/)
 
 #### Inspired: How To Create Products Customers Love | Marty Cagan
 
-[Купить на Amazon →](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
+
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/marty-cagan/vdohnovlennye-51383835/)
 
 #### Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | Jake Knapp
 
-[Купить на Amazon →](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
+
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/dzheyk-knapp/sprint-kak-razrabotat-i-protestirovat-novyy-produkt-vsego-za-24159860/)
 
